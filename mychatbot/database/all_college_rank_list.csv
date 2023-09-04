@@ -1,0 +1,461 @@
+name,state,rank,branch
+Indian Institute of Technology Madras,Tamil Nadu,1,Engineering
+Indian Institute of Technology Delhi,Delhi,2,Engineering
+Indian Institute of Technology Bombay,Maharashtra,3,Engineering
+Indian Institute of Technology Kanpur,Uttar Pradesh,4,Engineering
+Indian Institute of Technology Kharagpur,West Bengal,5,Engineering
+Indian Institute of Technology Roorkee,Uttarakhand,6,Engineering
+Indian Institute of Technology Guwahati,Assam,7,Engineering
+Indian Institute of Technology Hyderabad,Telangana,8,Engineering
+National Institute of Technology Tiruchirappalli,Tamil Nadu,9,Engineering
+Indian Institute of Technology Indore,Madhya Pradesh,10,Engineering
+Indian Institute of Technology  BHU  Varanasi,Uttar Pradesh,11,Engineering
+Indian Institute of Technology  Indian School of Mines,Jharkhand,12,Engineering
+National Institute of Technology Karnataka,Karnataka,13,Engineering
+Anna University,Tamil Nadu,14,Engineering
+Vellore Institute of Technology,Tamil Nadu,15,Engineering
+National Institute of Technology Rourkela,Odisha,16,Engineering
+Jadavpur University,West Bengal,17,Engineering
+Institute of Chemical Technology,Maharashtra,18,Engineering
+National Institute of Technology Warangal,Telangana,19,Engineering
+Amrita School of Engineering,Kerala,20,Engineering
+Indian Institute of Engineering Science and Technology,West Bengal,21,Engineering
+Indian Institute of Technology Bhubaneswar,Odisha,22,Engineering
+National Institute of Technology Calicut,Kerala,23,Engineering
+Indian Institute of Technology Gandhinagar,Gujarat,24,Engineering
+Indian Institute of Technology Ropar,Punjab,25,Engineering
+Indian Institute of Technology Patna,Bihar,26,Engineering
+Visvesvaraya National Institute of Technology,Maharashtra,27,Engineering
+Jamia Millia Islamia,Delhi,28,Engineering
+Thapar Institute of Engineering   Technology,Punjab,29,Engineering
+Birla Institute of Technology   Science,Rajasthan,30,Engineering
+Indian Institute of Technology Mandi,Himachal Pradesh,31,Engineering
+Amity University Noida,Uttar Pradesh,32,Engineering
+Indian Institute of Space Science and Technology,Kerala,33,Engineering
+Siksha  O  Anusandhan,Odisha,34,Engineering
+Malaviya National Institute of Technology,Rajasthan,35,Engineering
+Delhi Technological University,Delhi,36,Engineering
+Shanmugha Arts Science Technology   Research Academy,Tamil Nadu,37,Engineering
+Birla Institute of Technology,Jharkhand,38,Engineering
+Aligarh Muslim University,Uttar Pradesh,39,Engineering
+National Institute of Technology Kurukshetra,Haryana,40,Engineering
+S  R  M  Institute of Science and Technology,Tamil Nadu,41,Engineering
+Kalinga Institute of Industrial Technology,Odisha,42,Engineering
+International Institute of Information Technology Hyderabad,Telangana,43,Engineering
+Sri Sivasubramaniya Nadar College of Engineering,Tamil Nadu,44,Engineering
+Manipal Institute of Technology,Karnataka,45,Engineering
+National Institute of Technology Silchar,Assam,46,Engineering
+National Institute of Technology Durgapur,West Bengal,47,Engineering
+Motilal Nehru National Institute of Technology,Uttar Pradesh,48,Engineering
+PSG College of Technology,Tamil Nadu,49,Engineering
+College of Engineering Pune,Maharashtra,50,Engineering
+Sathyabama Institute of Science and Technology,Tamil Nadu,51,Engineering
+Dr  B  R  Ambedkar National Institute of Technology,Punjab,52,Engineering
+Indian Institute of Technology Jodhpur,Rajasthan,53,Engineering
+Sardar Vallabhbhai National Institute of Technology,Gujarat,54,Engineering
+Visvesvaraya Technological University,Karnataka,55,Engineering
+Indraprastha Institute of Information Technology Delhi,Delhi,56,Engineering
+Jawaharlal Nehru Technological University,Telangana,57,Engineering
+Koneru Lakshmaiah Education Foundation University,Andhra Pradesh,58,Engineering
+M  S  Ramaiah Institute of Technology,Karnataka,59,Engineering
+Kalasalingam Academy of Research and Higher Education,Tamil Nadu,60,Engineering
+National Institute of Technology Meghalaya,Meghalaya,61,Engineering
+International Institute of Information Technology Bangalore,Karnataka,62,Engineering
+Defence Institute of Advanced Technology,Maharashtra,63,Engineering
+Thiagarajar College of Engineering,Tamil Nadu,64,Engineering
+Maulana Azad National Institute of Technology,Madhya Pradesh,65,Engineering
+Indian Institute of Information Technology Guwahati,Assam,66,Engineering
+National Institute of Technology Raipur,Chhattisgarh,67,Engineering
+Punjab Engineering College  Deemed To Be University,Chandigarh,68,Engineering
+College of Engineering A,Andhra Pradesh,69,Engineering
+R  V  College of Engineering,Karnataka,70,Engineering
+Veermata Jijabai Technological Institute,Maharashtra,71,Engineering
+Panjab University,Chandigarh,72,Engineering
+B M S  College of Engineering,Karnataka,73,Engineering
+Indian Institute of Food Processing Technology  IIFPT,Tamil Nadu,74,Engineering
+National Institute of Technology Agartala,Tripura,75,Engineering
+Netaji Subhas University of Technology  NSUT,Delhi,76,Engineering
+National Institute of Technology Goa,Goa,77,Engineering
+Shri Mata Vaishno Devi University,Jammu and Kashmir,78,Engineering
+National Institute of Technology Jamshedpur,Jharkhand,79,Engineering
+Karunya Institute of Technology and Sciences,Tamil Nadu,80,Engineering
+Indian Institute of Information Technology Design   Manufacturing Jabalpur,Madhya Pradesh,81,Engineering
+Kumaraguru College of Technology,Tamil Nadu,82,Engineering
+Sri Krishna College of Engineering and Technology,Tamil Nadu,83,Engineering
+Chandigarh University,Punjab,84,Engineering
+College of Engineering Trivandrum,Kerala,85,Engineering
+Guru Gobind Singh Indraprastha University,Delhi,86,Engineering
+Lovely Professional University,Punjab,87,Engineering
+University College of Engineering,Telangana,88,Engineering
+Graphic Era University,Uttarakhand,89,Engineering
+Coimbatore Institute of Technology,Tamil Nadu,90,Engineering
+Siddaganga Institute of Technology,Karnataka,91,Engineering
+National Institute of Technology Patna,Bihar,92,Engineering
+C V  Raman Global University,Odisha,93,Engineering
+PES University,Karnataka,93,Engineering
+Vel Tech Rangarajan Dr  Sagunthala R   D Institute of Science and Technology,Tamil Nadu,95,Engineering
+Jaypee Institute of Information Technology,Uttar Pradesh,96,Engineering
+University College of Engineering,Andhra Pradesh,97,Engineering
+National Institute of Technology Hamirpur,Himachal Pradesh,98,Engineering
+Bharati Vidyapeeth Deemed University College of Engineering,Maharashtra,99,Engineering
+Atal Bihari Vajpayee Indian Institute of Information Technology and Management,Madhya Pradesh,100,Engineering
+Mepco Schlenk Engineering College,Tamil Nadu,101,Engineering
+Dayalbagh Educational Institute,Uttar Pradesh,102,Engineering
+Indian Institute of Information Technology Allahabad,Uttar Pradesh,103,Engineering
+Punjab Technical University,Punjab,104,Engineering
+Government College of Technology,Tamil Nadu,104,Engineering
+Rajalakshmi Engineering College,Tamil Nadu,106,Engineering
+Hindustan Institute of Technology  and Science  HITS,Tamil Nadu,107,Engineering
+Sri Sairam Engineering College,Tamil Nadu,108,Engineering
+Army Institute of Technology,Maharashtra,109,Engineering
+The Northcap University,Haryana,110,Engineering
+Dhirubhai Ambani Institute of Information and Communication Technology,Gujarat,111,Engineering
+Shoolini University of Biotechnology and Management Sciences,Himachal Pradesh,112,Engineering
+Shri Ramdeobaba College of Engineering and Management,Maharashtra,113,Engineering
+New Horizon College of Engineering,Karnataka,114,Engineering
+Jaypee University of Information Technology,Himachal Pradesh,115,Engineering
+Maharaja Sayajirao University of Baroda,Gujarat,116,Engineering
+Jain University,Karnataka,117,Engineering
+Vignan s Foundation for Science  Technology   Research,Andhra Pradesh,118,Engineering
+Veer Surendra Sai University of Technology,Odisha,119,Engineering
+YMCA University of Science and Technology,Haryana,120,Engineering
+National Institute of Food Technology  Enterprenurship   Management,Haryana,121,Engineering
+Pondicherry Engineering College,Pondicherry,122,Engineering
+B  S  Abdur Rahman Crescent Institute of Science and Technology,Tamil Nadu,123,Engineering
+Chaitanya Bharathi Institute of Technology,Telangana,124,Engineering
+Bharatiya Vidya Bhavan s Sardar Patel Institute of Technology,Maharashtra,125,Engineering
+Dayananda Sagar College of Engineering,Karnataka,126,Engineering
+Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology,Telangana,127,Engineering
+Nitte Meenakshi Institute of Technology,Karnataka,128,Engineering
+DIT University,Uttarakhand,129,Engineering
+National Institute of Technology Puducherry,Pondicherry,130,Engineering
+Nirma University,Gujarat,131,Engineering
+JSS Science and Technology University,Karnataka,132,Engineering
+N M A M Institute of Technology,Karnataka,133,Engineering
+Rajiv Gandhi Institute of Petroleum Technology,Uttar Pradesh,134,Engineering
+Kongu Engineering College,Tamil Nadu,135,Engineering
+KLE Technological University,Karnataka,136,Engineering
+Sant Longowal Institute of Engineering   Technology,Punjab,137,Engineering
+Dr  Vishwanath Karad MIT World Peace University,Maharashtra,138,Engineering
+G  H  Raisoni College of Engineering,Maharashtra,139,Engineering
+Yeshwantrao Chavan College of Engineering,Maharashtra,139,Engineering
+CVR College Of Engineering,Telangana,141,Engineering
+Sri Ramakrishna Engineering College,Tamil Nadu,142,Engineering
+Vardhaman College of Engineering,Telangana,143,Engineering
+The Rashtrasant Tukadoji Maharaj Nagpur University,Maharashtra,144,Engineering
+North Eastern Regional Institute of Science   Technology,Arunachal Pradesh,145,Engineering
+Indira Gandhi Delhi Technical University for Women,Delhi,145,Engineering
+P E S College of Engineering,Karnataka,147,Engineering
+National Institute of Foundry and Forge Technology  NIFFT,Jharkhand,148,Engineering
+Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,149,Engineering
+Sona College of Technology,Tamil Nadu,150,Engineering
+SVKM s Narsee Monjee Institute of Management Studies,Maharashtra,151,Engineering
+Sri Krishna College of Technology,Tamil Nadu,152,Engineering
+Sri Venkateswara University,Andhra Pradesh,153,Engineering
+Heritage Institute of Technology,West Bengal,154,Engineering
+R  M  K  Engineering College,Tamil Nadu,155,Engineering
+Velagapudi Ramakrishna Siddhartha Engineering College,Andhra Pradesh,156,Engineering
+Maulana Abul Kalam Azad University of Technology,West Bengal,157,Engineering
+National Institute of Technology Manipur,Manipur,158,Engineering
+Alliance University,Karnataka,159,Engineering
+St  Josephs College of Engineering,Tamil Nadu,160,Engineering
+SR Engineering College,Telangana,160,Engineering
+Amity University Gwalior,Madhya Pradesh,162,Engineering
+Haldia Institute of Technology,West Bengal,163,Engineering
+Government Engineering College,Kerala,164,Engineering
+Vishwakarma Institute of Technology,Maharashtra,165,Engineering
+Harcourt Butler Technical University,Uttar Pradesh,166,Engineering
+University of Petroleum and Energy Studies,Uttarakhand,167,Engineering
+Walchand College of Engineering,Maharashtra,168,Engineering
+BMS Institute of Technology   Management,Karnataka,169,Engineering
+Institute of Aeronautical Engineering,Telangana,170,Engineering
+K  J  Somaiya College of Engineering,Maharashtra,171,Engineering
+Goka Raju Ranga Raju Institute of Engineering   Technology,Telangana,172,Engineering
+Maharshi Karve Stree Shikshan Samstha s Cummins College of Engineering for Women,Maharashtra,173,Engineering
+ManavRachna International Institute of Research   Studies,Haryana,174,Engineering
+The National Institute of Engineering,Karnataka,175,Engineering
+Sri Venkateswara College of Engineering,Tamil Nadu,176,Engineering
+Pandit Deendayal Petroleum University,Gujarat,177,Engineering
+School of Engineering  Cochin University of Science and Technology,Kerala,178,Engineering
+Silicon Institute of Technology  SIT   Bhubaneswar,Odisha,179,Engineering
+Anurag Group of Institutions,Telangana,180,Engineering
+Chitkara University,Punjab,181,Engineering
+Indian Institute of Information Technology  Design   Manufacturing,Tamil Nadu,182,Engineering
+Madan Mohan Malaviya University of Technology,Uttar Pradesh,183,Engineering
+Sree Vidyanikethan Engineering College,Andhra Pradesh,184,Engineering
+JNTUA College of Engineering,Andhra Pradesh,185,Engineering
+BNM Institute of Technology,Karnataka,186,Engineering
+Vasavi College of Engineering,Telangana,187,Engineering
+Gayatri Vidya Parishad College of Engineering,Andhra Pradesh,188,Engineering
+National Engineering College,Tamil Nadu,189,Engineering
+G Pulla Reddy Engineering College,Andhra Pradesh,190,Engineering
+Institute of Engineering   Management,West Bengal,191,Engineering
+Sri Sai Ram Institute of Technology,Tamil Nadu,192,Engineering
+Dharmsinh Desai University,Gujarat,193,Engineering
+The LNM Institute of Information Technology,Rajasthan,194,Engineering
+Guru Jambheshwar University of Science and Technology,Haryana,195,Engineering
+Dr  D  Y  Patil Institute of Technology,Maharashtra,196,Engineering
+Pimpri Chinchwad College of Engineering,Maharashtra,197,Engineering
+Ramrao Adik Institute of Technology,Maharashtra,198,Engineering
+BVRIT Hyderabad,Telangana,199,Engineering
+National Institute of Technology Arunachal Pradesh,Arunachal Pradesh,200,Engineering
+All India Institute of Medical Sciences,Delhi,1,Medical
+Post Graduate Institute of Medical Education and Research,Chandigarh,2,Medical
+Christian Medical College,Tamil Nadu,3,Medical
+National Institute of Mental Health   Neuro Sciences,Karnataka,4,Medical
+Sanjay Gandhi Postgraduate Institute of Medical Sciences,Uttar Pradesh,5,Medical
+Banaras Hindu University,Uttar Pradesh,6,Medical
+Amrita Institute of Medical Sciences   Research,Kerala,7,Medical
+Jawaharlal Institute of Post Graduate Medical Education   Research,Pondicherry,8,Medical
+Kasturba Medical College,Karnataka,9,Medical
+King George s Medical University,Uttar Pradesh,10,Medical
+Institute of Liver and Biliary Sciences,Delhi,11,Medical
+Madras Medical College and Government General Hospital,Tamil Nadu,12,Medical
+Sri Ramachandra Institute of Higher Education And Research,Tamil Nadu,13,Medical
+St  John s Medical College,Karnataka,14,Medical
+Aligarh Muslim University,Uttar Pradesh,15,Medical
+Vardhman Mahavir Medical College   Safdarjung Hospital,Delhi,16,Medical
+Maulana Azad Medical College,Delhi,17,Medical
+Christian Medical College,Punjab,18,Medical
+University College of Medical Sciences,Delhi,19,Medical
+JSS Medical College,Karnataka,20,Medical
+Kasturba Medical College,Karnataka,21,Medical
+Jamia Hamdard,Delhi,22,Medical
+Siksha  O  Anusandhan,Odisha,23,Medical
+Dr  D  Y  Patil Vidyapeeth,Maharashtra,24,Medical
+Govt  Medical College   Hospital,Chandigarh,25,Medical
+Dayanand Medical College,Punjab,26,Medical
+Sawai Man Singh Medical College,Rajasthan,27,Medical
+PSG Institute of Medical Sciences   Research,Tamil Nadu,27,Medical
+Datta Meghe Institute of Medical Sciences,Maharashtra,29,Medical
+M  S  Ramaiah Medical College,Karnataka,30,Medical
+S  R  M  Institute of Science and Technology,Tamil Nadu,31,Medical
+Kalinga Institute of Industrial Technology,Odisha,32,Medical
+Maharishi Markandeshwar,Haryana,33,Medical
+Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,34,Medical
+Annamalai University,Tamil Nadu,35,Medical
+K  S  Hegde Medical Academy,Karnataka,36,Medical
+Krishna Institute of Medical Sciences,Maharashtra,37,Medical
+Sri Venkateswara Institute of Medical Sciences,Andhra Pradesh,38,Medical
+Regional Institute of Medical Sciences,Manipur,38,Medical
+Mahatma Gandhi Medical College and Research Institute,Pondicherry,40,Medical
+Indian Institute of Management Ahmedabad,Gujarat,1,Management
+Indian Institute of Management Bangalore,Karnataka,2,Management
+Indian Institute of Management Calcutta,West Bengal,3,Management
+Indian Institute of Management Lucknow,Uttar Pradesh,4,Management
+Indian Institute of Technology Kharagpur,West Bengal,5,Management
+Indian Institute of Management Kozhikode,Kerala,6,Management
+Indian Institute of Management Indore,Madhya Pradesh,7,Management
+Indian Institute of Technology Delhi,Delhi,8,Management
+Xavier Labour Relations Institute  XLRI,Jharkhand,9,Management
+Management Development Institute,Haryana,10,Management
+Indian Institute of Technology Bombay,Maharashtra,11,Management
+Indian Institute of Technology Roorkee,Uttarakhand,12,Management
+National Institute of Industrial Engineering,Maharashtra,12,Management
+Indian Institute of Technology Madras,Tamil Nadu,14,Management
+Indian Institute of Management Tiruchirappalli,Tamil Nadu,15,Management
+Indian Institute of Technology Kanpur,Uttar Pradesh,16,Management
+Indian Institute of Management Udaipur,Rajasthan,17,Management
+S  P  Jain Institute of Management and Research,Maharashtra,18,Management
+Indian Institute of Management Raipur,Chhattisgarh,19,Management
+Indian Institute of Management Ranchi,Jharkhand,20,Management
+Indian Institute of Management Rohtak,Haryana,21,Management
+Symbiosis Institute of Business Management,Maharashtra,22,Management
+Great Lakes Institute of Management,Tamil Nadu,23,Management
+SVKM s Narsee Monjee Institute of Management Studies,Maharashtra,24,Management
+ICFAI Foundation for Higher Education,Telangana,25,Management
+Indian Institute of Foreign Trade,Delhi,26,Management
+T  A  Pai Management Institute,Karnataka,27,Management
+International Management Institute,Delhi,28,Management
+Indian Institute of Technology  Indian School of Mines,Jharkhand,29,Management
+Indian Institute of Management Shillong,Meghalaya,30,Management
+Xavier Institute of Management  XIMB,Odisha,31,Management
+Kalinga Institute of Industrial Technology,Odisha,32,Management
+Indian Institute of Management Kashipur,Uttarakhand,33,Management
+Jamia Millia Islamia,Delhi,34,Management
+National Institute of Technology Tiruchirappalli,Tamil Nadu,35,Management
+Banaras Hindu University,Uttar Pradesh,36,Management
+Institute of Management Technology,Uttar Pradesh,37,Management
+BML Munjal University,Haryana,37,Management
+Alliance University,Karnataka,39,Management
+Indian Institute of Management,Maharashtra,40,Management
+Amity University Noida,Uttar Pradesh,41,Management
+Panjab University,Chandigarh,42,Management
+FORE School of Management,Delhi,43,Management
+Nirma University,Gujarat,44,Management
+Aligarh Muslim University,Uttar Pradesh,45,Management
+PSG College of Technology,Tamil Nadu,46,Management
+Birla Institute of Management Technology,Uttar Pradesh,47,Management
+Goa Institute of Management,Goa,48,Management
+Lovely Professional University,Punjab,49,Management
+Loyola Institute of Business Administration,Tamil Nadu,50,Management
+Chandigarh University,Punjab,51,Management
+International Management Institute,West Bengal,52,Management
+Institute for Financial Management and Research,Andhra Pradesh,53,Management
+Thapar Institute of Engineering   Technology,Punjab,54,Management
+Vellore Institute of Technology,Tamil Nadu,55,Management
+K  J  Somaiya Institute of Management Studies   Research,Maharashtra,56,Management
+Guru Gobind Singh Indraprastha University,Delhi,57,Management
+Birla Institute of Technology,Jharkhand,58,Management
+Anna University,Tamil Nadu,59,Management
+Institute of Management Technology,Maharashtra,60,Management
+Institute of Management Technology,Telangana,61,Management
+Indian Institute of Forest Management,Madhya Pradesh,62,Management
+International Management Institute,Odisha,63,Management
+Bharati Vidyapeeth s Institute of Management and Entrepreneurship Development,Maharashtra,63,Management
+IIHMR UNIVERSITY,Rajasthan,65,Management
+University of Petroleum and Energy Studies,Uttarakhand,66,Management
+Jagan Institute of Management Studies,Delhi,67,Management
+Principal L N Welingkar Institute of Management Development and Research,Maharashtra,68,Management
+Jaipuria Institute of Management,Uttar Pradesh,69,Management
+Koneru Lakshmaiah Education Foundation University,Andhra Pradesh,70,Management
+Visvesvaraya Technological University,Karnataka,71,Management
+Institute of Rural Management Anand,Gujarat,72,Management
+Jaipuria Institute of Management,Uttar Pradesh,73,Management
+Pandit Deendayal Petroleum University,Gujarat,74,Management
+Chitkara University,Punjab,75,Management
+Maulana Azad Institute of Dental Sciences,Delhi,1,Dental
+Manipal College of Dental Sciences,Karnataka,2,Dental
+Dr  D  Y  Patil Vidyapeeth,Maharashtra,3,Dental
+Saveetha Institute of Medical and Technical Sciences,Tamil Nadu,4,Dental
+A  B  S  M  Institute of Dental Sciences,Karnataka,5,Dental
+Manipal College of Dental Sciences,Karnataka,6,Dental
+Sri Ramachandra Institute of Higher Education And Research,Tamil Nadu,7,Dental
+Nair Hospital Dental College,Maharashtra,8,Dental
+SRM Dental College,Tamil Nadu,9,Dental
+JSS Dental College and Hospital,Karnataka,10,Dental
+M  S  Ramaiah University of Applied Sciences,Karnataka,11,Dental
+Siksha  O  Anusandhan,Odisha,12,Dental
+Amrita School of Dentistry,Kerala,13,Dental
+Datta Meghe Institute of Medical Sciences,Maharashtra,14,Dental
+Postgraduate Institute of Dental Sciences,Haryana,15,Dental
+Bapuji Dental College   Hospital,Karnataka,16,Dental
+Kalinga Institute of Industrial Technology,Odisha,17,Dental
+Christian Dental College,Punjab,18,Dental
+Jamia Millia Islamia,Delhi,19,Dental
+Yenepoya Dental College,Karnataka,20,Dental
+College of Dental Sciences,Karnataka,21,Dental
+Government Dental College,Madhya Pradesh,22,Dental
+Army College of Dental Sciences,Telangana,23,Dental
+KLE Vishwanath Katti Institute of Dental Sciences,Karnataka,24,Dental
+Maharishi Markandeshwar,Haryana,25,Dental
+Sri Dharmasthala Manjunatheswara College of Dharwad,Karnataka,26,Dental
+M  G  R  Educational and Research Institute,Tamil Nadu,27,Dental
+Panjab University,Chandigarh,28,Dental
+Pacific Dental College,Rajasthan,29,Dental
+Institute of Medical Sciences,Uttar Pradesh,30,Dental
+National Law School of India University,Karnataka,1,Law
+National Law University,Delhi,2,Law
+Nalsar University of Law,Telangana,3,Law
+Indian Institute of Technology Kharagpur,West Bengal,4,Law
+National Law University,Rajasthan,5,Law
+The West Bengal National University of Juridicial Sciences,West Bengal,6,Law
+Gujarat National Law University,Gujarat,7,Law
+Symbiosis Law School,Maharashtra,8,Law
+Jamia Millia Islamia,Delhi,9,Law
+The Rajiv Gandhi National University of Law,Punjab,10,Law
+Dr  Ram Manohar Lohiya National Law University,Uttar Pradesh,11,Law
+Kalinga Institute of Industrial Technology,Odisha,12,Law
+Aligarh Muslim University,Uttar Pradesh,13,Law
+National Law University,Odisha,14,Law
+Panjab University,Chandigarh,15,Law
+National Law University and Judicial Academy,Assam,16,Law
+National Law Institute University  Bhopal,Madhya Pradesh,17,Law
+Indian Law Institute,Delhi,18,Law
+Banaras Hindu University,Uttar Pradesh,19,Law
+Christ University,Karnataka,20,Law
+Indian Institute of Technology Kharagpur,West Bengal,1,Architecture
+Indian Institute of Technology Roorkee,Uttarakhand,2,Architecture
+National Institute of Technology Calicut,Kerala,3,Architecture
+Centre for Environmental Planning and Technology University,Gujarat,4,Architecture
+School of Planning and Architecture,Delhi,5,Architecture
+Indian Institute of Engineering Science and Technology,West Bengal,6,Architecture
+School of Planning and Architecture,Madhya Pradesh,7,Architecture
+National Institute of Technology Tiruchirappalli,Tamil Nadu,8,Architecture
+School of Planning and Architecture,Andhra Pradesh,9,Architecture
+Jamia Millia Islamia,Delhi,10,Architecture
+College of Engineering Trivandrum,Kerala,11,Architecture
+Manipal Academy of Higher Education,Karnataka,12,Architecture
+Birla Institute of Technology,Jharkhand,13,Architecture
+BMS College of Arhitecture,Karnataka,14,Architecture
+Maulana Azad National Institute of Technology,Madhya Pradesh,15,Architecture
+Aligarh Muslim University,Uttar Pradesh,16,Architecture
+Thiagarajar College of Engineering,Tamil Nadu,17,Architecture
+Anna University,Tamil Nadu,18,Architecture
+National Institute of Technology Hamirpur,Himachal Pradesh,19,Architecture
+Hindustan Institute of Technology  and Science  HITS,Tamil Nadu,20,Architecture
+Jamia Hamdard,Delhi,1,Pharmacy
+Panjab University,Chandigarh,2,Pharmacy
+National Institute of Pharmaceutical Education and Research Mohali,Punjab,3,Pharmacy
+Institute of Chemical Technology,Maharashtra,4,Pharmacy
+National Institute of Pharmaceutical Education and Research Hyderabad,Telangana,5,Pharmacy
+Birla Institute of Technology   Science,Rajasthan,6,Pharmacy
+Manipal College of Pharmaceutical Sciences,Karnataka,7,Pharmacy
+National Institute of Pharmaceutical Education and Research Ahmedabad,Gujarat,8,Pharmacy
+JSS College of Pharmacy,Tamil Nadu,9,Pharmacy
+JSS College of Pharmacy,Karnataka,10,Pharmacy
+National Institute of Pharmaceutical Education and Research Guwahati,Assam,11,Pharmacy
+Annamalai University,Tamil Nadu,12,Pharmacy
+SVKM s Narsee Monjee Institute of Management Studies,Maharashtra,13,Pharmacy
+Maharaja Sayajirao University of Baroda,Gujarat,14,Pharmacy
+Amrita School of Pharmacy,Kerala,15,Pharmacy
+Birla Institute of Technology,Jharkhand,16,Pharmacy
+Nirma University,Gujarat,17,Pharmacy
+National Institute of Pharmaceutical Education and Research Raebareli,Uttar Pradesh,18,Pharmacy
+S  R  M  Institute of Science and Technology,Tamil Nadu,19,Pharmacy
+Banasthali Vidyapith,Rajasthan,20,Pharmacy
+Amity University Noida,Uttar Pradesh,21,Pharmacy
+Poona College of Pharmacy  Pune,Maharashtra,22,Pharmacy
+Punjabi University,Punjab,23,Pharmacy
+Bombay College of Pharmacy,Maharashtra,24,Pharmacy
+Delhi Institute of Pharmaceutical Sciences   Research,Delhi,25,Pharmacy
+Sri Ramachandra Institute of Higher Education And Research,Tamil Nadu,26,Pharmacy
+National Institute of Pharmaceutical Education and Research Kolkata,West Bengal,27,Pharmacy
+Maharishi Markandeshwar,Haryana,28,Pharmacy
+Lovely Professional University,Punjab,29,Pharmacy
+SVKM s Dr  Bhanuben Nanavati College of Pharmacy,Maharashtra,30,Pharmacy
+Guru Jambheshwar University of Science and Technology,Haryana,31,Pharmacy
+I  S  F  College of Pharmacy,Punjab,32,Pharmacy
+The Rashtrasant Tukadoji Maharaj Nagpur University,Maharashtra,33,Pharmacy
+AU College of Pharmaceutical Sciences  Andhra University,Andhra Pradesh,34,Pharmacy
+Dibrugarh University,Assam,35,Pharmacy
+Maharshi Dayanand University,Haryana,36,Pharmacy
+KLE College of Pharmacy,Karnataka,37,Pharmacy
+Chitkara University,Punjab,38,Pharmacy
+Shoolini University of Biotechnology and Management Sciences,Himachal Pradesh,39,Pharmacy
+Y  B  Chavan College of Pharmacy,Maharashtra,40,Pharmacy
+Padmashree Dr  D  Y  Patil Institute of Pharmaceutical Sciences and Research,Maharashtra,41,Pharmacy
+Sri Padmavathi Mahila Visva Vidyalayam,Andhra Pradesh,42,Pharmacy
+Vels Institute of Science  Technology   Advanced Studies  VISTAS,Tamil Nadu,43,Pharmacy
+Guru Ghasidas Vishwavidyalaya,Chhattisgarh,44,Pharmacy
+L  M  College of Pharmacy,Gujarat,45,Pharmacy
+Integral University,Uttar Pradesh,46,Pharmacy
+Goa College of Pharmacy,Goa,47,Pharmacy
+Smt  Kishoritai Bhoyar College of Pharmacy,Maharashtra,48,Pharmacy
+N G S M Institute of Pharmaceutical Sciences,Karnataka,49,Pharmacy
+Noida Institute of Engineering And Technology  Pharmacy Institute,Uttar Pradesh,49,Pharmacy
+PSG College of Pharmacy,Tamil Nadu,51,Pharmacy
+M  S  Ramaiah University of Applied Sciences,Karnataka,52,Pharmacy
+R  C  Patel Institute of Pharmaceutical Education   Research,Maharashtra,53,Pharmacy
+Chalapathi Institute of Pharmaceutical Sciences,Andhra Pradesh,54,Pharmacy
+Raghavendra Institute of Pharmaceuatical Education   Research,Andhra Pradesh,55,Pharmacy
+Sam Higginbottom Institute of Agriculture  Technology   Sciences,Uttar Pradesh,56,Pharmacy
+College of Pharmacy  Madras Medical College,Tamil Nadu,57,Pharmacy
+Bharati Vidyapeeth s College of Pharmacy,Maharashtra,58,Pharmacy
+Pt  Ravishankar Shukla University,Chhattisgarh,59,Pharmacy
+Amar Shaheed Baba Ajit Singh Jujhar Singh Memorial College of Pharmacy,Punjab,60,Pharmacy
+NSHM Knowledge Campus,West Bengal,61,Pharmacy
+Bharati Vidyapeeth s College of Pharmacy,Maharashtra,62,Pharmacy
+Vivekanand Education Society s College of Pharmacy,Maharashtra,63,Pharmacy
+Acharya Nagarjuna University College of Pharmaceutical Sciences,Andhra Pradesh,64,Pharmacy
+C U Shah College of Pharmacy,Maharashtra,65,Pharmacy
+Sri Ramakrishna Institute of Paramedical Sciences,Tamil Nadu,66,Pharmacy
+Guru Nanak Institute of Pharmaceutical Science   Technology,West Bengal,67,Pharmacy
+P  E  Society s Modern College of Pharmacy,Maharashtra,68,Pharmacy
+Sri Venkateshwara College of Pharmacy,Andhra Pradesh,69,Pharmacy
+KMCH College of Pharmacy,Tamil Nadu,70,Pharmacy
+Padamshree Dr  D  Y  Patil College of Pharmacy,Maharashtra,71,Pharmacy
+Girijananda Chowdhury Institute of Pharmaceutical Science,Assam,72,Pharmacy
+Principal K M  Kundnani College of Pharmacy,Maharashtra,73,Pharmacy
+Dr  Vishwanath Karad MIT World Peace University,Maharashtra,73,Pharmacy
+Kumaun University  Nainital,Uttarakhand,75,Pharmacy
